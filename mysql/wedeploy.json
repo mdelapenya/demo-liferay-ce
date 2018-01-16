@@ -1,0 +1,7 @@
+{
+    "id": "db",
+    "env": {
+		"MYSQL_DATABASE": "lportal",
+        "MYSQL_ROOT_PASSWORD": "Passw0rd"
+	}
+}
